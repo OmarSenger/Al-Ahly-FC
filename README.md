@@ -2,7 +2,7 @@ AL Ahly FC
 
 For Africa Champions League Winner , 
 
-Simply an App to show some of the club players with their details in a seperate page , using the navigator to send the details of the clicked player from the first page to the second page to show . 
+Simply an App to show some of the club players with their details in a separate page , using the navigator to send the details of the clicked player from the first page to the second page to show . 
 
 * JUST USED ONLY 2 PAGES *
 
