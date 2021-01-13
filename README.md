@@ -22,3 +22,6 @@ Widgets Used for UI :
 13- BoxDecoration
 14- FlatButton
 15- FittedBox
+
+Preview : 
+https://gph.is/g/am1nOWk
