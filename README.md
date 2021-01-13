@@ -1,6 +1,8 @@
 AL Ahly FC
 
-Africa Champions League Winner , simply an app to show some of the club players with their details in a seperate page from the others . 
+Africa Champions League Winner , 
+
+Simply an App to show some of the club players with their details in a seperate page , using the navigator to send the details of the clicked player from the first page to the second page to show . 
 
 Widgets Used for UI : 
 1- Container 
@@ -9,9 +11,12 @@ Widgets Used for UI :
 4- ListView 
 5- Card
 6- Text
-7- Assets Image
+7- AssetImage
 8- GestureDetector
 9- Divider 
 10- Navigator 
 11- Padding
 12- Align
+13- BoxDecoration
+14- FlatButton
+15- FittedBox
