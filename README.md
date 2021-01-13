@@ -4,6 +4,8 @@ For Africa Champions League Winner ,
 
 Simply an App to show some of the club players with their details in a seperate page , using the navigator to send the details of the clicked player from the first page to the second page to show . 
 
+* JUST USED ONLY 2 PAGES *
+
 Widgets Used for UI : 
 1- Container 
 2- Row
